@@ -991,30 +991,6 @@
     {
       "confTeams" : [
         {
-          "abbreviation" : "USC",
-          "prestige" : "999",
-          "hexColor" : "#9D2235",
-          "rival" : "UCLA",
-          "headCoach" : {
-            "contractLength" : "7",
-            "startYear" : "2020",
-            "age" : "30",
-            "ratOff" : "999",
-            "cumulativePrestige" : "95",
-            "ratDef" : "999",
-            "homeState" : "Michigan",
-            "ratPot" : "999",
-            "ratTalent" : "999",
-            "baselinePrestige" : "95",
-            "ratDiscipline" : "999",
-            "ratOvr" : "95",
-            "name" : "Oliver Raymond",
-            "contractYear" : "0"
-          },
-          "name" : "USC",
-          "state" : "California"
-        },
-        {
           "abbreviation" : "UW",
           "prestige" : "83",
           "hexColor" : "#FFF1D0",
@@ -1229,7 +1205,31 @@
           },
           "name" : "Oregon State",
           "state" : "Oregon"
-        }
+        },
+        {
+          "abbreviation" : "USC",
+          "prestige" : "95",
+          "hexColor" : "#9D2235",
+          "rival" : "UCLA",
+          "headCoach" : {
+            "contractLength" : "7",
+            "startYear" : "2020",
+            "age" : "30",
+            "ratOff" : "95",
+            "cumulativePrestige" : "0",
+            "ratDef" : "95",
+            "homeState" : "Michigan",
+            "ratPot" : "95",
+            "ratTalent" : "95",
+            "baselinePrestige" : "95",
+            "ratDiscipline" : "95",
+            "ratOvr" : "95",
+            "name" : "Oliver Raymond",
+            "contractYear" : "0"
+          },
+          "name" : "USC",
+          "state" : "California"
+        },
       ],
       "confFullName" : "Pac 12",
       "confPrestige" : "95",
